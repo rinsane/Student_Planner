@@ -1,1 +1,2 @@
-https://www.youtube.com/watch?v=l8Imtec4ReQ
+kivy full tut: https://www.youtube.com/watch?v=l8Imtec4ReQ
+kivy + sockets: https://youtu.be/eMxrHAxY_Jc?si=FhKMfjSa2HbKEpYK
